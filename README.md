@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHp6NWU2NWZrY3UxdDIwZzFldWltbmdwNzYxdmszbzVub3Ntbm5lNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif" width="120"/>
-  <h1>Olá! Eu sou o Matheus José</h1>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHp6NWU2NWZrY3UxdDIwZzFldWltbmdwNzYxdmszbzVub3Ntbm5lNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif" width="150"/>
+  <h1>Olá! me chamo Matheus José</h1>
   <h3>Estudante de Ciência da Computação | Desenvolvedor Back-End | UFAL</h3>
 </div>
 
