@@ -21,10 +21,11 @@
 ###
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./output/pac-man-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./output/pac-man-contribution-graph.svg">
-    <img alt="pac-man contribution graph" src="./output/pac-man-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusJose-tech/MatheusJose-tech/refs/heads/main/pac-man-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusJose-tech/MatheusJose-tech/refs/heads/main/pac-man-contribution-graph.svg">
+  <img alt="pac-man contribution graph" src="https://raw.githubusercontent.com/MatheusJose-tech/MatheusJose-tech/refs/heads/main/pac-man-contribution-graph.svg">
 </picture>
+
 
 _generated with [abozanona/pac-man-contribution-graph](https://abozanona.github.io/pac-man-contribution-graph/)_
 
