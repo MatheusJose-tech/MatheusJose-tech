@@ -16,7 +16,7 @@
 
 ###
 
-<p data-importer="text" align="left">Sou estudante do 3º Período de Ciência da Computação na Universidade Federal de Alagoas (UFAL). <br><br>Meu foco está na área Back-End. Acredito que o código mais valioso é aquele que funciona de forma autônoma e confiável. Este é o princípio que guia meus estudos e projetos.</p>
+<p data-importer="text" align="left">Sou estudante do 3º Período de Ciência da Computação na Universidade Federal de Alagoas (UFAL), meu foco está na área Back-End. Acredito que o código mais valioso é aquele que funciona de forma autônoma e confiável. Este é o princípio que guia meus estudos e projetos.</p>
 
 ###
 
