@@ -16,15 +16,16 @@
 
 ###
 
-<p data-importer="text" align="left">Sou estudante do **3º Período de Ciência da Computação** na Universidade Federal de Alagoas (UFAL). Meu foco é em **resolver problemas através de sistemas automatizados** e eficientes.<br><br>Meu foco está na área **Back-End**. Acredito que o código mais valioso é aquele que funciona de forma autônoma e confiável. Este é o princípio que guia meus estudos e projetos.</p>
+<p data-importer="text" align="left">Sou estudante do 3º Período de Ciência da Computação na Universidade Federal de Alagoas (UFAL). <br><br>Meu foco está na área Back-End. Acredito que o código mais valioso é aquele que funciona de forma autônoma e confiável. Este é o princípio que guia meus estudos e projetos.</p>
 
 ###
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusJose-tech/MatheusJose-tech/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusJose-tech/MatheusJose-tech/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MatheusJose-tech/MatheusJose-tech/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com">
+  <img alt="pacman contribution graph" src="https://github.com">
 </picture>
+
 
 ###
 
@@ -56,7 +57,7 @@
 
 <div data-importer="music" align="center">
   <a href="https://open.spotify.com/user/MJ">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=MJ&count=0&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uh6mlb6pewoarc7ejlw72372zi&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
@@ -68,13 +69,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="168" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cHBhbWtmMDg5cjEyOWR2ZHA0N2hsb3NyNHh6cDd0N21hOXZiY3R6ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Tz30dcgKE3GCTYpxol/giphy.gif"  />
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=80&fontAlignY=60&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
-</div>
+<h3 data-importer="text" align="center">📬 Conecte-se Comigo!</h3>
 
 ###
 
@@ -95,8 +90,14 @@
 
 ###
 
+<div data-importer="image" align="center">
+  <img data-importer="image" height="180" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cHBhbWtmMDg5cjEyOWR2ZHA0N2hsb3NyNHh6cDd0N21hOXZiY3R6ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Tz30dcgKE3GCTYpxol/giphy.gif"  />
+</div>
+
+###
+
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=80&fontAlignY=60&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=150&fontAlignY=88&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
 </div>
 
 ###
