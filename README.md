@@ -2,7 +2,7 @@
 
 ###
 
-<h3 data-importer="text" align="center">Estudante de Ciência da Computação |  Desenvolvedor | UFAL</h3>
+<h3 data-importer="text" align="center">Estudante de Ciência da Computação |  Desenvolvedor Back-End | UFAL</h3>
 
 ###
 
