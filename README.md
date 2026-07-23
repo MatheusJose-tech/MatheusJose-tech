@@ -77,7 +77,7 @@ _generated with [abozanona/pac-man-contribution-graph](https://abozanona.github.
 ###
 
 <div data-importer="socials" align="center">
-  <a href="www.linkedin.com/in/matheusjose123" target="_blank">
+  <a href="https://www.linkedin.com/in/matheusjose123" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/users/474308042381590539" target="_blank">
